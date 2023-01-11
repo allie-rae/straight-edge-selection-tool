@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.cute-yellow {
+  color: "#ffe100";
+}
+
+.fullscreen {
+  height: "100vh";
+  width: "1000vw";
+}
